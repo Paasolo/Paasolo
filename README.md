@@ -2,7 +2,7 @@
           <img alt="gif" align="center" src="https://github.com/Paasolo/Paasolo/blob/main/git.gif" width=300 height=300/>
     </div>
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F745&center=true&width=435&lines=Hi+there+I'm+Solomon+Ansu.;Database+Engineering+%26+SQL+Development;Data+Integration%2C+ETL+%26+Data+Warehousing;Business+Intelligence+%26+Power+BI;Software+%26+API+Development;Cloud+Data+Solutions;+Artificial+Intelligence+%26+Machine+Learning;Business+Process+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F745&center=true&width=435&lines=Hi+there+I'm+Solomon+Ansu.;Data+Engineering;SQL+Development;Data+Integration;ETL;Data+Warehousing;Business+Intelligence;Power+BI;Software+%26+API+Development;Cloud+Data+Solutions;Artificial+Intelligence;Machine+Learning;Business+Process+Automation" alt="Typing SVG" />
     </div>
 <h3 align="center">Data Engineer, passionate about Data, Business Intelligence, and Microsoft Power Platform Development.</h3>
 
