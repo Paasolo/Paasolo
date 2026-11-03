@@ -86,4 +86,8 @@ Skills:  Database Engineering & SQL Development - Data Integration, ETL & Data W
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 </div>
 
+<hr>
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/paasolo/paasolo/blob/main/Paasolo.svg">
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
 
